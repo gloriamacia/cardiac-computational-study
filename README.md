@@ -24,7 +24,7 @@ There is also a more visual summary in the file
 ![alt tag](https://github.com/gloriamacia/Cardiac-Matlab-Study/blob/master/summary.png)
 
 ## LICENSE
-Apache License Version 2.0 
+GNU GPLv3 license
 
 ## CONTACT / TROUBLESHOOT
 
